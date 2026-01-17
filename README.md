@@ -124,7 +124,7 @@ This project was created during a hackathon to streamline clinical note generati
 
 **[Akanksha Gupta]**  
 - Role: AI Integration,Easy OCR Integration, Documentation, Testing
-- GitHub: [@Agupta163](https://github.com/Agupta163)
+- GitHub: [@Agupta163] (https://github.com/Agupta163)
 
 ---
 
